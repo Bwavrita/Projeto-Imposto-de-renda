@@ -1,2 +1,1 @@
-# Projeto-Imposto-de-renda
-Projeto, no qual desenvolvi uma formula para deduzir o imposto de renda mensal e anual.
+Projeto, no qual se deduz o imposto de renda por mês, utilizando o salário da pessoa ja descontado o INSS, apos isto o programa calcula o imposto de renda mesnal e o aual.
